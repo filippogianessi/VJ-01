@@ -22,7 +22,7 @@
 }
 
 .opening__box {
-  background: red;
+  background-color: rgba(123, 213, 234, .9);
   display: flex;
   flex-direction: column;
   padding: 32px;
