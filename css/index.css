@@ -28,6 +28,7 @@
   padding: 32px;
   align-content: center;
   align-items: center;
+  min-height: 480px;
 }
 
 .opening-box__title {
