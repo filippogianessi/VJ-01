@@ -18,6 +18,7 @@
   justify-content: center;
   background-image: url(https://www.dolcevitaonline.it/wp-content/uploads/2017/05/Silvi-Berlusconi.jpg);
   background-size: cover;
+  margin: 0;
 
 }
 
@@ -29,6 +30,8 @@
   align-content: center;
   align-items: center;
   min-height: 480px;
+  max-width: 640px;
+  justify-content: center;
 }
 
 .opening-box__title {
