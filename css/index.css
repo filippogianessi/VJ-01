@@ -7,3 +7,31 @@
   font-size: 1.6em;
   font-family: "Merriweather", serifM
 }
+
+.opening {
+  width: 100%;
+  height: 100vh;
+  background-color: pink;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+}
+
+.opening__box {
+  background: red;
+  display: flex;
+  flex-direction: column;
+}
+
+.opening-box__title {
+  font-size: 4em;
+  color: white;
+  font-family: sans-serif;
+}
+
+.opening-box__subtitle {
+  font-size: 2.4em;
+  color: white;
+  font-family: sans-serif;
+}
