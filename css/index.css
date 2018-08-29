@@ -11,12 +11,13 @@
 .opening {
   width: 100%;
   height: 100vh;
-  background-color: pink;
   display: flex;
   flex-direction: column;
   align-items: center;
   align-content: center;
   justify-content: center;
+  background-image: url(https://www.dolcevitaonline.it/wp-content/uploads/2017/05/Silvi-Berlusconi.jpg);
+  background-size: cover;
 
 }
 
